@@ -1,0 +1,6 @@
+###> Other files and folders ###
+.php_cs.cache
+.idea
+.DS_Store
+docker-compose.yml
+###< Other files and folders ###
